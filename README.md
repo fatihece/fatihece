@@ -21,11 +21,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | React Native)
 - 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
-- 💬 Ask me about anything that you want to learn 
+- 💬 Ask me about anything that you want to learn  <fatihenaz@gmail.com> 
 
-[![](https://www.linkedin.com/in/fatihy%C3%BCrek/)
+[![](https://www.linkedin.com/in/fatihyürek/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihece" alt="fatihece" /> </p>
+
+---
 
 ## 🚀 Skills
 
