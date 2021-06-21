@@ -1,19 +1,3 @@
-
-
-<!--
-**fatihece/fatihece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Hi there 👋
 ## I'm a Husband, Father, Developer!!
 
@@ -21,9 +5,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | React Native)
 - 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
-- 💬 Ask me about anything that you want to learn  <fatihenaz@gmail.com> 
-
-[![](https://www.linkedin.com/in/fatihyürek/)
+- 💬 Ask me about anything that you want to learn 
+---
+## 👨👩 Social
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatihy%C3%BCrek/)
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:fatihenaz@gmail.com)
+[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@fatihenaz)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatihece" alt="fatihece" /> </p>
 
@@ -53,6 +40,6 @@ Here are some ideas to get you started:
  <a href="#" target="_blank"> <img src="https://a.slack-edge.com/80588/marketing/img/media-kit/img-logos.png" height="45"/> </a>
 </p>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=veyseltosun&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=veyseltosun&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=fatihece&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fatihece&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatihece&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
