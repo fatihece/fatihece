@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **fatihece/fatihece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋
+### Hi there 👋
+## I'm a Husband, Father, Developer!!
 
 <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
 
